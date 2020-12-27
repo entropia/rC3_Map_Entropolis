@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ReloadRoom.json#startLayer"
+                 "value":"reload.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
