@@ -32,7 +32,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-south.json#start_raumzeitlabor"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-south.json#start_bytewerk"
                 }],
          "type":"tilelayer",
          "visible":true,
