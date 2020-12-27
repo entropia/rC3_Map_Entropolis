@@ -40,6 +40,12 @@
          "id":66,
          "name":"ReloadRoom - Exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"ReloadRoom.json#startLayer"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
