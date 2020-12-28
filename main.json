@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"gulash.json#start"
+                 "value":"gulasch.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
