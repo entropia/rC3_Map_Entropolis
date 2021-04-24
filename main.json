@@ -174,9 +174,24 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiConfig",
                  "type":"string",
-                 "value":"https:\/\/meet.entropia.de\/sofaecke"
+                 "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#ea5b0c\" }"
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"sofaecke"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.entropia.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,9 +237,24 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiConfig",
                  "type":"string",
-                 "value":"https:\/\/meet.entropia.de\/sofaecke"
+                 "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#ea5b0c\" }"
+                }, 
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"sofaecke"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.entropia.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -655,7 +685,7 @@
  "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1356,6 +1386,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":50
 }
