@@ -3,7 +3,11 @@ fork from the world-map-starter-kit
 
 The Entropois Universe is in the EntropolisSpace.json file.
 
-# world-map-starterkit
+# How to start
 
-This repositor is intended to give you an overview over the features in the world as well as a good starting point for creating your own maps! Feel free to use and change them!
+* Download [tiled][]
+* Edit the map (it's very selfexplanatory tbh)
+* ???
+* PROFIT!!!
 
+[tiled]: https://www.mapeditor.org/
