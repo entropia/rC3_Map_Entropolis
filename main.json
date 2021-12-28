@@ -191,7 +191,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.entropia.de"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -254,7 +254,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.entropia.de"
+                 "value":"meet.ffmuc.net"
                 }],
          "type":"tilelayer",
          "visible":true,
